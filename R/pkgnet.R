@@ -25,3 +25,6 @@ globalVariables(c('.'
                   ,'y'
                   ,'yend'
                   ))
+
+
+### FUNCTIONS TO RUN ON LOAD
